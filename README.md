@@ -53,6 +53,22 @@ Consumer Financial Protection Bureau (CFPB) Complaints Dataset
 
 ---
 
+## 📊 Dashboard Visualizations
+
+### Executive Overview
+
+![Executive Overview](Dashboard/01_Executive_Overview.png)
+
+### Company & Product Insights
+
+![Company Product Insights](Dashboard/02_Company_product_Insights.png)
+
+### Complaints Response Analysis
+
+![Complaints Response Analysis](Dashboard/03_Complaints_Response_Analysis.png)
+
+---
+
 ## 📈 Key Insights Summary
 
 - Seasonal spike in complaints during July (~15%)  
