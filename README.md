@@ -61,7 +61,7 @@ Consumer Financial Protection Bureau (CFPB) Complaints Dataset
 
 ### Company & Product Insights
 
-![Company Product Insights](Dashboard/02_Company_product_Insights.png)
+![Company product Insights](Dashboard/02_Company_product_Insights.png)
 
 ### Complaints Response Analysis
 
